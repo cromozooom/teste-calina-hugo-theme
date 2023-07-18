@@ -1,0 +1,3 @@
+[submodule "themes/calina"]
+	path = themes/calina
+	url = https://github.com/cromozooom/calina.git
